@@ -1,0 +1,40 @@
+#EXTM3U
+
+########################
+# Türkiye Yerel Kanallar
+########################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8e/TRT_1_logosu_2021.svg", TRT 1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/70/TRT2_logo.svg", TRT 2
+https://tv-trt2.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/ATV_logo.svg", ATV
+https://atv.canliyayin.website/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/46/Kanal_D_logo.svg", Kanal D
+https://kanald.canliyayin.website/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/11/Show_TV_logo.svg", Show TV
+https://showtv.canliyayin.website/live.m3u8
+
+########################
+# Türkiye Spor Kanalları
+########################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5d/TRT_Spor_logo.svg", TRT Spor
+https://trtspor.canliyayin.website/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/90/Sport_1_logo.svg", S Sport
+https://ssport.canliyayin.website/live.m3u8
+
+########################
+# Türkiye Haber Kanalları
+########################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/86/CNN_Turk_logo.svg", CNN Türk
+https://cnnturk.canliyayin.website/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/3f/NTV_logo.svg", NTV
+https://ntv.canliyayin.website/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/64/Haberturk_logo.svg", Habertürk
+https://haberturk.canliyayin.website/live.m3u8
