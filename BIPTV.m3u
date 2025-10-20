@@ -1,0 +1,49 @@
+#EXTM3U
+
+########################
+# Türkiye Yerel Kanallar
+########################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8e/TRT_1_logosu_2021.svg", TRT 1
+https://trt1-hls.akamaized.net/hls/live/200034/trt1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/70/TRT2_logo.svg", TRT 2
+https://trt2-hls.akamaized.net/hls/live/200034/trt2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/46/Kanal_D_logo.svg", Kanal D
+https://kanald-hls.akamaized.net/hls/live/200034/kanald/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/11/Show_TV_logo.svg", Show TV
+https://showtv-hls.akamaized.net/hls/live/200034/showtv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/ATV_logo.svg", ATV
+https://atv-hls.akamaized.net/hls/live/200034/atv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/65/TV8_logo.svg", TV8
+https://tv8-hls.akamaized.net/hls/live/200034/tv8/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bb/Star_TV_logo.svg", Star TV
+https://startv-hls.akamaized.net/hls/live/200034/startv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/3d/FOX_TV_logo.svg", FOX TV
+https://foxtv-hls.akamaized.net/hls/live/200034/foxtv/master.m3u8
+
+########################
+# Türkiye Spor Kanalları
+########################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5d/TRT_Spor_logo.svg", TRT Spor
+https://trtspor-hls.akamaized.net/hls/live/200034/trtspor/master.m3u8
+
+########################
+# Türkiye Haber Kanalları
+########################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/86/CNN_Turk_logo.svg", CNN Türk
+https://cnnturk-hls.akamaized.net/hls/live/200034/cnnturk/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/3f/NTV_logo.svg", NTV
+https://ntv-hls.akamaized.net/hls/live/200034/ntv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/64/Haberturk_logo.svg", Habertürk
+https://haberturk-hls.akamaized.net/hls/live/200034/haberturk/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/85/TRT_Haber_logo.svg", TRT Haber
+https://trthaber-hls.akamaized.net/hls/live/200034/trthaber/master.m3u8
