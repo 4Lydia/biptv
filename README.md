@@ -1,2 +1,0 @@
-# biptv
-TURK KANALLAR
